@@ -22,7 +22,7 @@ Mimics textbook-style matrix layout with intuitive UI for addition, multiplicati
 ---
 
 ### 🏗️ Soil Mechanics Software
-![Soil Mechanics](images/soil_placeholder.gif)
+![Soil Mechanics](images/soil_placeholder.jpeg)
 Performs key geotechnical calculations, renders plots, and exports results to Word.
 
 [More Details](soil-mechanics-tool/README.md)
