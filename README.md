@@ -13,19 +13,19 @@ This is my personal portfolio showcasing select Python and engineering projects 
 
 ## 🔧 Projects Overview
 
-### 🧮 Matrix Calculator (KivyMD)
-![Matrix Calculator](images/matrix_placeholder.gif)
-Mimics textbook-style matrix layout with intuitive UI for addition, multiplication, and inversion.
-
-[More Details](matrix-calculator/README.md)
-
----
-
 ### 🏗️ Soil Mechanics Software
 ![Soil Mechanics](images/soil_mechanics.gif)
 Performs key geotechnical calculations, renders plots, and exports results to Word.
 
 [More Details](soil-mechanics-tool/README.md)
+
+---
+
+### 🧮 Matrix Calculator (KivyMD)
+![Matrix Calculator](images/matrix_placeholder.gif)
+Mimics textbook-style matrix layout with intuitive UI for addition, multiplication, and inversion.
+
+[More Details](matrix-calculator/README.md)
 
 ---
 
