@@ -60,6 +60,14 @@ Auto-generates multiple versions of shuffled exam questions with correct marking
 [More Details](exam-question-shuffler/README.md)
 
 ---
+### 🎬 Cinema-Themed Movie App
+![movie app](images/movie_app.gif)
+A client-side web app that simulates a cinema environment for watching movies and YouTube videos.
+
+[More Details](cinema-movie-app/index.html)
+
+---
+
 
 ### 🌐 API + Web Integration
 
@@ -76,6 +84,12 @@ Python, Django, REST APIs, HTML, CSS, JavaScript
 - Remote question bank sync for Shuffler
 - Online matrix calculation history
 - Auth and result export over the web
+
+---
+
+### 📊 Light Data Analysis Experience
+
+Beyond app development, I’ve also worked with Python’s Pandas, NumPy, and Matplotlib libraries for basic data analysis. Projects included student grading analysis, performance charting, and structured reporting. These experiences helped sharpen my logical reasoning and ability to visualize data insights.
 
 ---
 
@@ -102,7 +116,7 @@ Stay tuned!
 
 ## 🎓 Education
 **University of Benin, Benin City**  
-*Bachelor’s Degree in Structural Engineering* (Expected 2025)
+*Bachelor’s Degree in Structural Engineering* (2025)
 
 ---
 
