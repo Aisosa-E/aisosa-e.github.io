@@ -61,6 +61,38 @@ Auto-generates multiple versions of shuffled exam questions with correct marking
 
 ---
 
+### 🌐 API + Web Integration
+
+**What I'm exploring:**  
+Adding online functionality to my KivyMD apps using Django REST framework and frontend tools.
+
+**Why:**  
+To sync results, enable cross-device use, and bring cloud power to local tools.
+
+**Tech in Use:**  
+Python, Django, REST APIs, HTML, CSS, JavaScript
+
+**Examples in Progress:**
+- Remote question bank sync for Shuffler
+- Online matrix calculation history
+- Auth and result export over the web
+
+---
+
+### 🛠 Upcoming Projects
+
+**Structural Engineering Tools:**  
+Currently working on tools for:
+- Beam and slab design
+- Structural load analysis
+- Reinforcement detailing
+
+Targeted for use by engineers and students seeking quick desktop tools for routine checks.
+
+Stay tuned!
+
+---
+
 ## 🧠 Creative Skills
 - Drawing & Art (concept sketching, shading)
 - Dancing and performance arts
