@@ -64,7 +64,7 @@ Auto-generates multiple versions of shuffled exam questions with correct marking
 ![movie app](images/movie_app.gif)
 A client-side web app that simulates a cinema environment for watching movies and YouTube videos.
 
-[More Details](cinema-movie-app/README.md)
+[More Details](cinema-themed-movie-app/README.md)
 
 ---
 
