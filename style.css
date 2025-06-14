@@ -60,7 +60,7 @@ header {
 }
 
 
-.media-wrapper {
+/*.media-wrapper {
   width: 100%;
   max-width: 500px;
   aspect-ratio: 16 / 9;
@@ -74,7 +74,35 @@ header {
   height: 100%;
   object-fit: cover;
   display: block;
+}*/
+
+/* Common media container */
+.media-wrapper {
+  width: 100%;
+  max-width: 400px;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin: 1rem auto;
 }
+
+/* Portrait-oriented media */
+.media-portrait {
+  aspect-ratio: 9 / 16;
+}
+
+/* Landscape-oriented media */
+.media-landscape {
+  aspect-ratio: 16 / 9;
+}
+
+.media-wrapper img,
+.media-wrapper video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 
 header h1 {
   font-size: 2rem;
